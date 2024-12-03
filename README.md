@@ -5,7 +5,6 @@
 - Implemented a [7M parameter model](./model.py).
 - Trained a BERT style tokenizer.
 - Trained on [Opus100](https://huggingface.co/datasets/opus100) Dataset with `en-hi` & `en-te` subsets.
-- Go through the entirety on [Kaggle](https://www.kaggle.com/code/shreydan/en-hi-te-translation).
 
 ```
 ENGLISH ----> HINDI
